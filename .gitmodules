@@ -1,0 +1,9 @@
+[submodule "femina-backEnd"]
+	path = femina-backEnd
+	url = https://github.com/Thyago-Oliveira-Perez/femina-backEnd.git
+[submodule "femina-stockManager"]
+	path = femina-stockManager
+	url = https://github.com/Thyago-Oliveira-Perez/femina-stockManager.git
+[submodule "femina-webapp"]
+	path = femina-webapp
+	url = https://github.com/Thyago-Oliveira-Perez/femina-webapp.git
